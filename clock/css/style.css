@@ -60,7 +60,6 @@ h3 {
   top: calc(50% - 10px);
   color: rgb(247, 243, 243);
 }
-
 .hours {
   width: 7px;
   height: 70px;
@@ -73,7 +72,6 @@ h3 {
   border: 2px solid black;
   transform-origin: bottom center;
 }
-
 .minute {
   width: 5px;
   height: 120px;
@@ -86,7 +84,6 @@ h3 {
   border: 2px solid black;
   transform-origin: bottom center;
 }
-
 .seconds {
   width: 2px;
   height: 120px;
